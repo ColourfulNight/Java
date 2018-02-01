@@ -10,7 +10,7 @@ import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by Edgar on 2017-12-25.
+ * Created by Edgar on 2017-12-25.aass
  */
 public class MoveMouse {
     private static Robot myRobot;
